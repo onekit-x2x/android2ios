@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OnekitWX_java/OnekitWX_java.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitWX_w3c/OnekitWX_w3c.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitWX_javax/OnekitWX_javax.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitWX_android/OnekitWX_android.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnekitWX_appcompat/OnekitWX_appcompat.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:App/App.xcodeproj">
+   </FileRef>
+</Workspace>
